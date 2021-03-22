@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AdeZwart
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AdeZwart/AdeZwart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m @AdeZwart
+- 📫 How to reach me: 
+  - [@zwart_andre](https://twitter.com/zwart_andre)
+  - [André de Zwart](https://www.linkedin.com/in/andredezwart/)
