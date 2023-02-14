@@ -4,7 +4,7 @@
 - ⚙️ I'm a C#/.NET developer at [Valtech](https://www.valtech.com/nl-nl/over-ons/kantoren/?country=Netherlands) in Utrecht, The Netherlands
 - he/him
 - 📫 How to reach me: 
-  - ![Twitter Follow](https://img.shields.io/twitter/follow/adezwart?style=social)
+  - [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andre_de_zwart)
   - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andredezwart/)
 <br>
 
