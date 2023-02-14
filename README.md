@@ -5,7 +5,7 @@
 - he/him
 - 📫 How to reach me: 
   - ![Twitter Follow](https://img.shields.io/twitter/follow/adezwart?style=social)
-  - [André de Zwart](https://www.linkedin.com/in/andredezwart/)
+  - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andredezwart/)
 <br>
 
 ---
