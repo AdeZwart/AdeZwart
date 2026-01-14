@@ -1,7 +1,7 @@
 # 👋 Hi, I’m André de Zwart (he/him)
 
 ---
-I'm a C#/.NET developer at [Dormakaba](https://www.dormakaba.com/nl-nl/atimo) in Utrecht, The Netherlands. I have a strong interest in Agile and DevOps practices, always chasing the mythical "10 deploys per day".
+I'm a C#/.NET developer at [Dormakaba NL](https://www.dormakaba.com/nl-nl/atimo) in Utrecht, The Netherlands. I have a strong interest in Agile and DevOps practices, always chasing the mythical "10 deploys per day".
 
 I try to live by the following:  
 _"I have never tried that before, so I think I should definitely be able to do that"_  
