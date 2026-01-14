@@ -13,7 +13,9 @@ _"I'll figure it out"_
 _"If it hurts, do it more frequently(, and bring the pain forward.)"_  
 &nbsp;&nbsp;&nbsp;&nbsp;\- Jez Humble
 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andre_de_zwart)  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andredezwart/)  
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andre_de_zwart)  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andredezwart)  
+[![]()](https://bsky.app/profile/adezwart.bsky.social)
 <br>
 ---
 <br>
